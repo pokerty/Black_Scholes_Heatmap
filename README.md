@@ -2,6 +2,8 @@
 
 This app visualizes the potential profit/loss of European call/put options over time using the Black-Scholes model. It fetches real-time stock data and option chain information using the yfinance library
 
+Run this app online at https://black-scholes-heatmap-hp.streamlit.app/
+
 ## Features
 
 *   Fetches current spot price for a given ticker.
