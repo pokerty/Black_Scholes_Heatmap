@@ -1,6 +1,6 @@
 # Black-Scholes Option Profit/Loss Heatmap
 
-This Streamlit application visualizes the potential profit or loss of European call and put options over time using the Black-Scholes model. It fetches real-time stock data and option chain information using `yfinance`.
+This app visualizes the potential profit/loss of European call/put options over time using the Black-Scholes model. It fetches real-time stock data and option chain information using the yfinance library
 
 ## Features
 
